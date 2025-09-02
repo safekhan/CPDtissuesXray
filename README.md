@@ -3,7 +3,7 @@ The code in this repo supports the plots and findings presented in this study:
 
 > **Critical point drying of brain tissues for X-ray phase contrast imaging**
 > 
-> Safe Khan, Jonas Albers, Artem Vorobyev, Yuxin Zhang, Jakob Reichmann, Angelika Svetlove, Fabio de Marco, Ksenia Denisova, Yikai Yang, Florent Seichepine, James Douglas, Elisabeth Duke, Peter Cloetens, Alexandra Pacureanu, Andreas T. Schaefer & Carles Bosch.
+> Safe Khan, Jonas Albers, Artem Vorobyev, Yuxin Zhang, Jakob Reichmann, Angelika Svetlove, Fabio de Marco, Ksenia Denisova, Yikai Yang, Florent Seichepine, James Douglas, Elizabeth Duke, Peter Cloetens, Alexandra Pacureanu, Andreas T. Schaefer & Carles Bosch.
 > 
 > bioRxiv 2025.
 
